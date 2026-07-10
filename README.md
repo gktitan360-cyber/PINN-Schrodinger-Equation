@@ -26,11 +26,11 @@ The repository consists of the following Jupyter Notebooks:
 ## 🧠 Problems Covered
 
 ### 1. Infinite Quantum Well (Particle in a Box)
-* **Potential:** $V(x) = 0$ for $0 < x < L$, and $\infty$ otherwise.
+* **Potential:** $V(x) = 0$ for $0 < x < 1$, and $\infty$ otherwise.
 * **Objective:** Learn the sinusoidal wavefunctions and discrete energy levels while strictly enforcing zero-boundary conditions at the walls.
 
 ### 2. Finite Quantum Well
-* **Potential:** $V(x) = -V_0$ for $-a < x < a$, and $0$ otherwise.
+* **Potential:** $V(x) = 20$ for $-1 < x < 1$, and $0$ otherwise.
 * **Objective:** Resolve the transcendental equations implicitly through network optimization to find bound states and handle wave penetration into the classically forbidden regions.
 
 ### 3. Quantum Harmonic Oscillator
